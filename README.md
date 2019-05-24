@@ -14,12 +14,10 @@ Deep learning is an artificial intelligence function that imitates the workings 
 
 ##### Deep Learning  :
 
-![alt text](images/gif.jpeg)
+![alt text](images/gif.jpeg)	![alt text](images/3.gif)
 
 ![alt text](images/1.gif)
 
 ![alt text](images/5.gif)
-
-![alt text](images/3.gif)
 
 ![alt text](images/4.gif)
