@@ -17,6 +17,7 @@ Transfer learning is a machine learning method where a model developed for a tas
 Transfer Learning differs from traditional Machine Learning in that it is the use of pre-trained models that have been used for another task to jump start the development process on a new task or problem.
 
 ![alt text](images/1.jpeg)
+##### Images source : [Google](www.google.com)
 
 
 Often many Machine Learning questions offer datasets that may be very horizontal and not conducive to applying a ML solution initially. To account for this you can train a Deep Convolutional Neural Net on ImageNet and then use a technique called a Warm Restart to refine the algorithm on the “target” dataset.
@@ -25,6 +26,8 @@ By pre-training the neural network on ImageNet you can then re-use it on your ta
 
 
 ![alt text](images/2.png)
+
+##### Images source : [Google](www.google.com)
 
 ## Popular Transfer Learning Model:
 
