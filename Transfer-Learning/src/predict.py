@@ -4,7 +4,7 @@ import numpy as np
 from vgg16 import vgg16
 from scipy import ndimage, misc
 from helperpkg import config
-path_to_image = "/home/aditya/Desktop/letter/B/MTggSG9sZXMgQlJLLnR0Zg==.png"
+path_to_image = "/home/ashok/1.jpg"
 
 def read_image(image):
     """
