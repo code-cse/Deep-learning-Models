@@ -4,7 +4,7 @@ This repository contains the code for various Deep Learning Models.
 
 ### Project Structure
 ```
-├── Transfer-Learning	 # Weight used in prediction
+├── Transfer-Learning	 # Transfer Learning code 
 ├── images               # Images 
 ├── Readme               # Readme 
 ```
